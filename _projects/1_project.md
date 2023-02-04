@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Translate ERDDAP User Interface Into Different Languages
+description: A Google Summer of Code 2021 project with the U.S. Integrated Ocean Observing System (IOOS)
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -2,31 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Qi Zeng 曾祺
+    # - name: Date of Birth
+    #   value: 13th September 1879
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Computer Science and Mathematics
+      institution: Georgia Institute of Technology, Atlanta, United States of America
+      year: 2020-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Math major concentration: Probability and Statistics"
+        - "Computer Science major threads: Intelligence and People"
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Bachelor of Science in Mathematics
+      institution: University of Florida, Gainesville, United States of America
+      year: 2019-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Transferred to Georgia Institute of Technology on August 2020.
+        # - Description 2.
 
 - title: Experience
   type: time_table
