@@ -36,9 +36,9 @@ jobs:
           echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
-    # - name: Deploy website 
-    #   run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
-    #                 --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-    #                 --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+    - name: Deploy website 
+      run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
+                    --src ${{ steps.setup.outputs.SRC_BRANCH }} 
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
     - name: Jekyll Deploy Action
       uses: jeffreytse/jekyll-deploy-action@v0.4.0
