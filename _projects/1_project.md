@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Translate ERDDAP User Interface Into Different Languages
-description: A Google Summer of Code 2021 project with the U.S. Integrated Ocean Observing System (IOOS)
+title: project 1
+description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -62,8 +62,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 
 The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` 
-<!-- (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system). -->
+Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 

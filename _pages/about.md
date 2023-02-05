@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 Hello! I'm Qi Zeng (曾祺), an 4th year undergraduate student at [Georgia Tech](https://www.gatech.edu/) majoring in Computer Science and Mathematics.
 Welcome to my personal page!
 
-I joined [Florian Schäfer](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) lab on September 2021.
+I joined [Florian Schäfer's](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) research group on September 2021.
 My research aim is improving Physics Informed Neural Networks ([PINNs](https://en.wikipedia.org/wiki/Physics-informed_neural_networks)). 
-Check out our work on [Competitive Physics Informed Neural Network](https://arxiv.org/abs/2204.11144).
+Check out our work on [Competitive Physics Informed Neural Network](/projects/CPINN_project/).
 
-
+I'm actively looking for an internship in data science related fields for summer 2023, my CV is available [here](/cv/).
 <!-- I'm looking for an oppoturnity as  -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->

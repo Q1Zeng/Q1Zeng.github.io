@@ -5,7 +5,7 @@ permalink: /projects/
 description: Growing collection of my projects.
 nav: true
 nav_order: 2
-display_categories: []
+display_categories: ["Research", "Open Source Projects"]
 horizontal: false
 ---
 

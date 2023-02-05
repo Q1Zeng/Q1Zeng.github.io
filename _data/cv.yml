@@ -13,7 +13,7 @@
   contents:
     - title: Bachelor of Science in Computer Science and Mathematics
       institution: Georgia Institute of Technology, Atlanta, U.S.
-      year: 2020-2023
+      year: 2020-Present
       description:
         - "Math major concentration: Probability and Statistics"
         - "Computer Science major threads: Intelligence and People"
@@ -29,14 +29,13 @@
         - Transferred to Georgia Institute of Technology on August 2020.
         # - Description 2.
 
-- title: Experience
+- title: Experiences
   type: time_table
   contents:
     - title: Application Development Intern, 
       institution: ADP, LLC., Alpharetta, Georgia, U.S.
       year: May 2022 - Aug. 2022
       description:
-        Worked as a summer intern at  in 2022.
         - Assisted full-time developers to decouple previously dependent projects to improve code stability and development efficiency.
         - Developed multiple Jersey RESTful web service APIs in Java, integrated the APIs into the existing code base.
         # - title: Description 3.
@@ -51,14 +50,20 @@
         - Assisted Professor Anton Leykin to evaluate students' performance in the Second Course to Linear Algebra class.
         - Assisted Dr. Gregory Mayer with office hours and provide support for students in the Multivariable Calculus class.
 
-
-- title: Open Source Projects
+- title: Research
   type: time_table
   contents:
-    - title: <a href="https://coastwatch.pfeg.noaa.gov/erddap/index.html">ERDDAP</a>
-      # year: 2015-now
+    - title: <a href="/projects/CPINN_project/">Competitive Physics Informed Neural Network</a>
       description: 
-        - In 2021 I worked on an auto-translation tool to translate ERDDAP, a data server used by the oceanogeogrpahical community, to enhance 
+        - A generative-discriminator framework for Physics Informed Neural Networks (PINN). Advised by Florian Schäfer and Spencer Bryngelson, joint work with Yash Kothari. 
+        - Papaer accepted for the 11th International Conference on Learning Representations Interational.
+
+- title: Open Source Project
+  type: time_table
+  contents:
+    - title: <a href="/projects/GSoC_project/">ERDDAP</a>
+      description: 
+        - In summer 2021 I participated in the <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> program and worked on an auto-translation tool to translate ERDDAP, a data server used by the oceanogeogrpahical community, to enhance data accessibility and reduce collaboration barriers.
         - Detailed description at <a href="https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168">https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168</a>
 
 
