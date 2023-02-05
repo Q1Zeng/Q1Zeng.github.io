@@ -8,20 +8,23 @@ profile:
   align: right
   image: IMG_2958.JPEG
   image_circular: false # crops the image to make it circular
+  # image_description: Photo taken at Allatoona Lake
   address: >
+    <p>Photo taken at Allatoona Lake</p>
     <p>Atlanta, GA</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Qi Zeng 曾祺, an undergraduate student at [Georgia Tech](https://www.gatech.edu/) majoring in Computer Science and Mathematics.
+Hello! I'm Qi Zeng (曾祺), an 4th year undergraduate student at [Georgia Tech](https://www.gatech.edu/) majoring in Computer Science and Mathematics.
 Welcome to my personal page!
 
-I am co-advised [Florian Schäfer](https://f-t-s.github.io/) and [Spencer Bryngelson](https://comp-physics.group/).
+I joined [Florian Schäfer](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) lab on September 2021.
+My research aim is improving Physics Informed Neural Networks ([PINNs](https://en.wikipedia.org/wiki/Physics-informed_neural_networks)). 
+Check out our work on [Competitive Physics Informed Neural Network](https://arxiv.org/abs/2204.11144).
 
-My contact information can be found with the icons at the bottom of the page.
 
 <!-- I'm looking for an oppoturnity as  -->
 
