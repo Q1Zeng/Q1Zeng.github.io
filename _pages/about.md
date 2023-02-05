@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Qi Zeng (曾祺), an 4th year undergraduate student at [Georgia Tech](https://www.gatech.edu/) majoring in Computer Science and Mathematics.
+Hello! I'm Qi Zeng (曾祺), a 4th year undergraduate student at [Georgia Tech](https://www.gatech.edu/) majoring in Computer Science and Mathematics.
 Welcome to my personal page!
 
 I joined [Florian Schäfer's](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) research group on September 2021.
