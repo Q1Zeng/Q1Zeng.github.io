@@ -5,4 +5,4 @@ inline: true
 ---
 
 <!-- A simple inline announcement. -->
-Spencer Brygelnson, one of the advisors for CPINN, will give a talk on competitive optimization methods at the next Lawrence Livermore DDPS Webinar.
+Spencer Brygelnson, one of the advisors for CPINN, will give a talk on competitive optimization methods at the next [DDPS Webinar](https://www.librom.net/ddps.html) at Lawrence Livermore National Laboratory.
