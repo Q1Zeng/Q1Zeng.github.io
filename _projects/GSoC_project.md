@@ -2,7 +2,7 @@
 layout: page
 title: Translate ERDDAP User Interface Into Different Languages
 description: Google Summer of Code 2021 project with the U.S. Integrated Ocean Observing System (IOOS)
-img: assets/img/GSoC_logo.svg
+img: assets/img/GSoC-Vertical.svg
 importance: 1
 category: "Open Source Projects"
 ---
