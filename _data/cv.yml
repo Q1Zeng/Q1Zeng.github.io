@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Qi Zeng/曾祺
-    # - name: Date of Birth
-    #   value: 13th September 1879
     - name: Languages
       value: English, Chinese
 
@@ -22,22 +20,21 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Bachelor of Science in Mathematics
+    - title: Undergraduate Coursework in Mathematics
       institution: University of Florida, Gainesville, U.S.
       year: 2019-2020
       description:
         - Transferred to Georgia Institute of Technology on August 2020.
-        # - Description 2.
 
 - title: Experiences
   type: time_table
   contents:
-    - title: Application Development Intern, 
+    - title: Application Development Intern
       institution: ADP, LLC., Alpharetta, Georgia, U.S.
       year: May 2022 - Aug. 2022
       description:
-        - Assisted full-time developers to decouple previously dependent projects to improve code stability and development efficiency.
-        - Developed multiple Jersey RESTful web service APIs in Java, integrated the APIs into the existing code base.
+        - Assisted full-time backend developers to decouple previously dependent projects, resulting in faster compilement for development.
+        - Developed multiple Jersey RESTful web service APIs in Java and integrated the APIs into the existing code base.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -46,9 +43,9 @@
       institution: Georgia Institute of Technology, Atlanta, Georgia, U.S.
       year: 2021 - Present
       description:
-        - Assisted James Anderson to evaluate students' performance in the Applied Combinatorics class.
-        - Assisted Professor Anton Leykin to evaluate students' performance in the Second Course to Linear Algebra class.
-        - Assisted Dr. Gregory Mayer with office hours and provide support for students in the Multivariable Calculus class.
+        - Assisting Dr. Gregory Mayer with weekly office hours, evaluating over 600+ students performance and answering students' questions in the Multivariable Calculus class.
+        - Assisted Prof. Anton Leykin to evaluate 100+ students' performance in the Second Course to Linear Algebra class.
+        - Assisted James Anderson to evaluate 80+ students' performance in the Applied Combinatorics class.
 
 - title: Research
   type: time_table
@@ -56,7 +53,7 @@
     - title: <a href="/projects/CPINN_project/">Competitive Physics Informed Neural Network</a>
       description: 
         - A generative-discriminator framework for Physics Informed Neural Networks (PINN). Advised by Florian Schäfer and Spencer Bryngelson, joint work with Yash Kothari. 
-        - Papaer accepted for the 11th International Conference on Learning Representations Interational.
+        - Papaer accepted for the 11th International Conference on Learning Representations.
 
 - title: Open Source Project
   type: time_table
@@ -67,16 +64,25 @@
         - Detailed description at <a href="https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168">https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168</a>
 
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      title: Outstanding Undergraduate Researcher Award
+      institution: College of Computing, Georgia Institute of Technology
+
+    - year: 2020 - 2023
+      title:  Faculty Honors (x3) and Dean's List (x2)
+      institution: Georgia Institute of Technology
+
+    - year: 2019 - 2020
+      title:  President's Honor Roll (x2)
+      institution: University of Florida
+
+    # - year: 2029
+    #   items: 
+    #     - Max Planck Medal
+
 
 # - title: Academic Interests
 #   type: nested_list
