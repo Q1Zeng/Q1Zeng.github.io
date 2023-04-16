@@ -2,7 +2,7 @@
 layout: page
 title: Competitive Physics Informed Neural Network (CPINN)
 description: "A generative-discriminator framework for Physics Informed Neural Networks (PINN). Advised by Florian Schäfer and Spencer Bryngelson, joint work with Yash Kothari. Accepted for the 11th International Conference on Learning Representations Interational."
-# img: assets/img/12.jpg
+img: assets/img/CPINN_ICLR_thumbnail.png
 importance: 1
 category: "Research"
 ---
