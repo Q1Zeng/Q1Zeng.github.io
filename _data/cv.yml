@@ -9,10 +9,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Computer Science and Mathematics
-      institution: Georgia Institute of Technology, Atlanta, U.S.
-      year: 2020-Present
+    - title: Master of Engineering in Electrical Engineering and Computer Science
+      institution: University of California, Berkeley, U.S.
+      year: 2023 - Present
       description:
+        - "Concentration: Data Science and Systems"
+
+    - title: Bachelor of Science in Computer Science and Mathematics
+      institution: Georgia Institute of Technology, U.S.
+      year: 2020 - 2023
+      description:
+        - "Graduated with highest honors"
         - "Math major concentration: Probability and Statistics"
         - "Computer Science major threads: Intelligence and People"
         # - Description 2.
@@ -21,12 +28,12 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: Undergraduate Coursework in Mathematics
-      institution: University of Florida, Gainesville, U.S.
+      institution: University of Florida, U.S.
       year: 2019-2020
       description:
         - Transferred to Georgia Institute of Technology on August 2020.
 
-- title: Experiences
+- title: Work Experiences
   type: time_table
   contents:
     - title: Application Development Intern
@@ -41,9 +48,9 @@
         #     - Sub-description 2.
     - title: Student Assistant
       institution: Georgia Institute of Technology, Atlanta, Georgia, U.S.
-      year: 2021 - Present
+      year: 2021 - 2023
       description:
-        - Assisting Dr. Gregory Mayer with weekly office hours, evaluating over 600+ students performance and answering students' questions in the Multivariable Calculus class.
+        - Assisted Dr. Gregory Mayer with weekly office hours, evaluated over 600+ students performance and answered students' questions in the Multivariable Calculus class.
         - Assisted Prof. Anton Leykin to evaluate 100+ students' performance in the Second Course to Linear Algebra class.
         - Assisted James Anderson to evaluate 80+ students' performance in the Applied Combinatorics class.
 
@@ -52,8 +59,8 @@
   contents:
     - title: <a href="/projects/CPINN_project/">Competitive Physics Informed Neural Network</a>
       description: 
-        - A generative-discriminator framework for Physics Informed Neural Networks (PINN). Advised by Florian Schäfer and Spencer Bryngelson, joint work with Yash Kothari. 
-        - Papaer accepted for the 11th International Conference on Learning Representations.
+        - A generative-discriminator framework for Physics Informed Neural Networks (PINN) for partial differential equations. Advised by Florian Schäfer and Spencer Bryngelson, joint work with Yash Kothari. 
+        - First author of a paper accepted to the 11th International Conference on Learning Representations.
 
 - title: Open Source Project
   type: time_table
@@ -72,11 +79,11 @@
       institution: College of Computing, Georgia Institute of Technology
 
     - year: 2020 - 2023
-      title:  Faculty Honors (x3) and Dean's List (x2)
+      title: Faculty Honors (x4) and Dean's List (x2)
       institution: Georgia Institute of Technology
 
     - year: 2019 - 2020
-      title:  President's Honor Roll (x2)
+      title: President's Honor Roll (x2)
       institution: University of Florida
 
     # - year: 2029

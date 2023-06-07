@@ -18,10 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Qi Zeng (曾祺), a graduate student pursuing Master of Engineering in Electrical Engineering and Computer Science at [University of California, Berkeley](https://www.berkeley.edu/).
+Hello! I'm Qi Zeng (曾祺), a graduate student pursuing Master of Engineering degree in Electrical Engineering and Computer Science at [University of California, Berkeley](https://www.berkeley.edu/).
 Welcome to my personal page!
 
-I received Bachelor of Science degrees in Mathematics and Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/).
+I received my Bachelor of Science degrees in Mathematics and Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/).
 
 On September 2021 I joined [Florian Schäfer's](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) research group at Georgia Tech.
 My research aim is improving Physics Informed Neural Networks ([PINNs](https://en.wikipedia.org/wiki/Physics-informed_neural_networks)) to solve partial differential equations, check out our work on [Competitive Physics Informed Neural Network](/projects/CPINN_project/).
