@@ -15,6 +15,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     # gem 'mini_racer'
     gem 'unicode_utils'
+    gem 'uri', '0.10.1'
     gem 'webrick'
 end
 group :other_plugins do
