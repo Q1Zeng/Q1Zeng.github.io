@@ -18,16 +18,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Qi Zeng (曾祺), a graduate student pursuing the Master of Engineering degree in Electrical Engineering and Computer Science at [University of California, Berkeley](https://www.berkeley.edu/).
-<!-- This year I will be working on a capstone about deep learning on time series, mentored by Yunkai Zhang at UC Berkeley. -->
-Welcome to my personal page!
+Hello! I'm Qi Zeng (曾祺), welcome to my personal page!
 
-I received my Bachelor of Science degrees in Mathematics and Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/).
-On September 2021 I joined [Florian Schäfer's](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) research group at Georgia Tech.
+I received the Master of Engineering degree in Electrical Engineering and Computer Science at [University of California, Berkeley](https://www.berkeley.edu/) on May 2024.
+Before my master's I received my Bachelor of Science degrees in Mathematics and Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/).
+
+I joined [Florian Schäfer's](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) research group at Georgia Tech.
 Our research aim to improve Physics Informed Neural Networks ([PINNs](https://en.wikipedia.org/wiki/Physics-informed_neural_networks)) to solve partial differential equations, check out our work on [Competitive Physics Informed Neural Network](/projects/CPINN_project/).
 
-I'm looking for a fulltime job opportunity in machine learning related fields starting in summer 2024. 
-My CV is available [here](/cv/).
+I'm interested in the intersection of machine learning and science. Over the past few years I've worked in AI + {PDE/biology/time series} and believe machine learning has the potential to be applied in ways that were previously unimaginable, opening up new possibilities and domains for exploration.
+
+Currently I am working as a software engineer at Google Cloud AI to make Gemini better.
+
+Feel free to reach out!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
