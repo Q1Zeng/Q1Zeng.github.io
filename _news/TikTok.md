@@ -5,4 +5,4 @@ inline: true
 ---
 
 <!-- A simple inline announcement. -->
-I join [TikTok Inc.](https://www.tiktok.com/about) as a Machine Learning Engineer on TikTok Recommendation systems.
+I joined [TikTok Inc.](https://www.tiktok.com/about) as a Machine Learning Engineer on TikTok Recommendation systems.
