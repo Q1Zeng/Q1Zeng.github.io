@@ -6,17 +6,49 @@
     - name: Languages
       value: English, Chinese
 
+
+- title: Work Experiences
+  type: time_table
+  contents:
+    - title: Software Engineer, Google
+      year: Dec. 2024 - Present
+      description:
+        - Gemini model serving
+    - title: Machine Learning Engineer, TikTok
+      year: Sept. 2024 - Dec. 2024
+      description:
+        - TikTok Recommendation Systems
+    - title: Machine Learning Engineering Intern, Lamini AI (now part of AMD AI)
+      # institution: PowerML Inc., Menlo Park, California, U.S.
+      year: Jun. 2024 - Aug. 2024
+      description:
+        - Large Language Model Agent training and evaluation pipelines
+    - title: Application Development Intern, ADP LLC.
+      # institution: ADP, LLC., Alpharetta, Georgia, U.S.
+      year: May 2022 - Aug. 2022
+      description:
+        - Internal system decoupling and improvements
+    - title: Student Assistant, Georgia Institute of Technology
+      # institution: Georgia Institute of Technology, Atlanta, Georgia, U.S.
+      year: 2021 - 2023
+      description:
+        - Student teaching assistant for several mathematics courses.
+        - Research assistant with Professor Florian Schäfer and Professor Spencer Bryngelson
+        # - Assisted Dr. Gregory Mayer with weekly office hours, evaluated over 600+ students performance and answered students' questions in the Multivariable Calculus class.
+        # - Assisted Prof. Anton Leykin to evaluate 100+ students' performance in the Second Course to Linear Algebra class.
+        # - Assisted James Anderson to evaluate 80+ students' performance in the Applied Combinatorics class.
+
 - title: Education
   type: time_table
   contents:
     - title: Master of Engineering in Electrical Engineering and Computer Science
-      institution: University of California, Berkeley, U.S.
-      year: 2023 - Present
+      institution: University of California, Berkeley
+      year: 2023 - 2024
       description:
         - "Concentration: Data Science and Systems"
 
     - title: Bachelor of Science in Computer Science and Mathematics
-      institution: Georgia Institute of Technology, U.S.
+      institution: Georgia Institute of Technology
       year: 2020 - 2023
       description:
         - "Graduated with highest honors"
@@ -28,40 +60,18 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: Undergraduate Coursework in Mathematics
-      institution: University of Florida, U.S.
+      institution: University of Florida
       year: 2019-2020
       description:
         - Transferred to Georgia Institute of Technology on August 2020.
 
-- title: Work Experiences
-  type: time_table
+- title: Publications
+  type: list
+  # type: time_table
   contents:
-    - title: Application Development Intern
-      institution: ADP, LLC., Alpharetta, Georgia, U.S.
-      year: May 2022 - Aug. 2022
-      description:
-        - Assisted full-time backend developers to decouple previously dependent projects, resulting in faster compilement for development.
-        - Developed multiple Jersey RESTful web service APIs in Java and integrated the APIs into the existing code base.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    - title: Student Assistant
-      institution: Georgia Institute of Technology, Atlanta, Georgia, U.S.
-      year: 2021 - 2023
-      description:
-        - Assisted Dr. Gregory Mayer with weekly office hours, evaluated over 600+ students performance and answered students' questions in the Multivariable Calculus class.
-        - Assisted Prof. Anton Leykin to evaluate 100+ students' performance in the Second Course to Linear Algebra class.
-        - Assisted James Anderson to evaluate 80+ students' performance in the Applied Combinatorics class.
+    - Are Time Series Foundation Models Ready for Zero-Shot Forecasting? In 1st ICML Workshop on Foundation Models for Structured Data, 2025
 
-- title: Research
-  type: time_table
-  contents:
-    - title: <a href="/projects/CPINN_project/">Competitive Physics Informed Neural Network</a>
-      description: 
-        - A generative-discriminator framework for Physics Informed Neural Networks (PINN) for partial differential equations. Advised by Florian Schäfer and Spencer Bryngelson, joint work with Yash Kothari. 
-        - First author of a paper accepted to the 11th International Conference on Learning Representations.
-      year: Sep. 2021 - Jan. 2023
+    - <a href="/projects/CPINN_project/">Competitive Physics Informed Neural Network</a>. In The Eleventh International Conference on Learning Representations, 2023
     
 - title: Projects
   type: time_table

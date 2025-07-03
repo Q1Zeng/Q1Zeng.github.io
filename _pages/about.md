@@ -23,10 +23,13 @@ Hello! I'm Qi Zeng (曾祺), welcome to my personal page!
 I received the Master of Engineering degree in Electrical Engineering and Computer Science at [University of California, Berkeley](https://www.berkeley.edu/) on May 2024.
 Before my master's I received my Bachelor of Science degrees in Mathematics and Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/).
 
-I joined [Florian Schäfer's](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) research group at Georgia Tech.
-Our research aim to improve Physics Informed Neural Networks ([PINNs](https://en.wikipedia.org/wiki/Physics-informed_neural_networks)) to solve partial differential equations, check out our work on [Competitive Physics Informed Neural Network](/projects/CPINN_project/).
+<!-- I joined [Florian Schäfer's](https://f-t-s.github.io/) and [Spencer Bryngelson's](https://comp-physics.group/) research group at Georgia Tech.
+Our research aim to improve Physics Informed Neural Networks ([PINNs](https://en.wikipedia.org/wiki/Physics-informed_neural_networks)) to solve partial differential equations, check out our work on [Competitive Physics Informed Neural Network](/projects/CPINN_project/). -->
 
 I'm interested in the intersection of machine learning and science. Over the past few years I've worked in AI + {PDE/biology/time series} and believe machine learning has the potential to be applied in ways that were previously unimaginable, opening up new possibilities and domains for exploration.
+
+While at Cal, I worked with [Professor Zeyu Zheng](https://zheng.ieor.berkeley.edu/) on time series and foundation models.
+At Georgia Tech I was mentored by [Professor Florian Schäfer](https://f-t-s.github.io/) and [Professor Spencer Bryngelson](https://comp-physics.group/) to research on the combination machine learning and computational physics.
 
 Currently I am working as a software engineer at Google Cloud AI to make Gemini better.
 
