@@ -6,12 +6,10 @@ permalink: /
 
 profile:
   align: right
-  image: IMG_2958.JPEG
+  image: brisbane.jpeg
   image_circular: false # crops the image to make it circular
-  # image_description: Photo taken at Allatoona Lake
   address: >
-    <p>Photo taken at Allatoona Lake</p>
-    <p>Atlanta, GA</p>
+    <p>Brisbane, Australia</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
